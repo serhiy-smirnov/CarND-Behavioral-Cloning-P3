@@ -11,7 +11,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./images/model.h5.svg "Model Visualization"
+[image1]: ./images/model.h5.png "Model Visualization"
 [image2]: ./images/source_image_center.jpg "Center camera image"
 [image3]: ./images/source_image_left.jpg "Left camera image"
 [image4]: ./images/source_image_right.jpg "Right camera image"
@@ -145,3 +145,4 @@ Here is a visualization of the architecture (created with https://netron.app/)
 
 ![alt text][image1]
 
+(also available as [svg](images/model.h5.svg))

@@ -144,5 +144,3 @@ The final model architecture (model.py 'create_model_nvidia()') consists of a co
 Here is a visualization of the architecture (created with https://netron.app/)
 
 ![alt text][image1]
-
-(also available as [svg](images/model.h5.svg))
